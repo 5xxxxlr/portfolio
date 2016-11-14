@@ -11,3 +11,20 @@ body {
 footer {
     margin: 50px 0;
 }
+
+p {
+    font-size: 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.project-row {
+    margin-top: 20px;
+}
+
+h3 {
+    margin-top: 0;
+}
+
+.project-header {
+    font-weight: bold;
+}
