@@ -155,7 +155,8 @@ header p {
 }
 
 .image.left, .image.right {
-    max-width: 40%;
+    /*For mobile display, just let the width be 100%, although the hight of a video could be of the screen...*/
+    /* max-width: 40%; */
 }
 
 .image.left img, .image.right img {
